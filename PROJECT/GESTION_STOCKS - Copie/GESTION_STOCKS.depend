@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1652940789 source:c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks\gestion_fournisseur.c
+	"gestion_fournisseur.h"
+
+1652941597 c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks\gestion_fournisseur.h
+	<stdio.h>
+	<string.h>
+	"gestion_produit.h"
+	<stdbool.h>
+	<winsock.h>
+	<mysql.h>
+
+1652941597 c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks\gestion_produit.h
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1652941597 source:c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks\gestion_produit.c
+	"gestion_produit.h"
+
+1652940075 source:c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks\main.c
+	"gestion_produit.h"
+	"gestion_fournisseur.h"
+
+1135288878 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1135289056 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\mysql_com.h
+
+1130016924 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\mysql_time.h
+
+1130016924 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\mysql_version.h
+	<custom_conf.h>
+
+1130016926 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\typelib.h
+
+1130016926 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\my_list.h
+
+1130016924 c:\users\nathan\documents\cours\b1\programmation en c\project\acces_bd_mysql_use_case\api_mysql\mysql\my_alloc.h
+
+1653216859 source:c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks - copie\gestion_fournisseur.c
+	"gestion_fournisseur.h"
+
+1653219202 c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks - copie\gestion_fournisseur.h
+	<stdio.h>
+	<string.h>
+	"gestion_produit.h"
+	<stdbool.h>
+	<winsock.h>
+	<mysql.h>
+
+1652945197 c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks - copie\gestion_produit.h
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1652945197 source:c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks - copie\gestion_produit.c
+	"gestion_produit.h"
+
+1653219230 source:c:\users\nathan\documents\cours\b1\programmation en c\project\gestion_stocks - copie\main.c
+	"gestion_produit.h"
+	"gestion_fournisseur.h"
+
